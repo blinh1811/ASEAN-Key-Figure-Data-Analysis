@@ -34,7 +34,7 @@ The connectivity section highlights:
 
 ## 4. Dashboard Creation
 This report includes guidance for creating dashboards in:
-- **Power BI**: Population and welfare metrics, connectivity indicators.
+- **Power BI**: Population and welfare metrics, connectivity indicators. [ASEAN-Key-Figure-Data-Analysis](https://github.com/blinh1811/ASEAN-Key-Figure-Data-Analysis/blob/main/ASEAN%20Key%20Figure%20Dashboard.pbix)
 - **SAP Analytics Cloud (SAC)**: Business intelligence dashboards, including financial planning, collaboration, and predictive analysis.
 - **Python**: Data visualization and analysis using libraries like Plotly for ASEAN statistics.
 
