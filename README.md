@@ -12,6 +12,7 @@ This report provides an overview of key statistics for ASEAN countries, offering
 
 ## 1. Introduction
 The report begins by explaining the role of data from ASEANstats, focusing on recent developments in areas like population, social welfare, and connectivity. It serves as a valuable resource for understanding ASEAN's socio-economic landscape.
+![image](https://github.com/user-attachments/assets/db1a2a05-f904-4cf4-8d71-82dadd3962d9)
 
 ## 2. Population and Social Welfare
 This section includes:
@@ -21,6 +22,7 @@ This section includes:
 - **Measles Immunization**: Coverage rates and differences among ASEAN members.
 - **Unemployment Rate**: A critical economic indicator showcasing trends and variations across ASEAN.
 - **Student-Teacher Ratio in Primary Education**: Used to compare educational quality across ASEAN countries.
+![image](https://github.com/user-attachments/assets/612f9b25-13c4-4dfe-9dfd-8d681c9d20d4)
 
 ## 3. Connectivity
 The connectivity section highlights:
@@ -28,6 +30,7 @@ The connectivity section highlights:
 - **Air Transport**: Trends in international and domestic air passenger traffic.
 - **Tourism**: A breakdown of tourist arrivals and recovery from COVID-19.
 - **Internet Services**: Internet penetration rates, indicating technological adoption post-COVID-19.
+![image](https://github.com/user-attachments/assets/865bdd8e-7573-4a6f-a083-f2e18503d158)
 
 ## 4. Dashboard Creation
 This report includes guidance for creating dashboards in:
