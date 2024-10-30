@@ -36,7 +36,7 @@ The connectivity section highlights:
 This report includes guidance for creating dashboards in:
 - **Power BI**: Population and welfare metrics, connectivity indicators. [ASEAN-Key-Figure-Data-Analysis](https://github.com/blinh1811/ASEAN-Key-Figure-Data-Analysis/blob/main/ASEAN%20Key%20Figure%20Dashboard.pbix)
 - **SAP Analytics Cloud (SAC)**: Business intelligence dashboards, including financial planning, collaboration, and predictive analysis. [ASEAN-Key-Figure-Data-Analysis](https://github.com/blinh1811/ASEAN-Key-Figure-Data-Analysis/blob/main/Dashboard_Python.ipynb)
-- **Python**: Data visualization and analysis using libraries like Plotly for ASEAN statistics.
+- **Python**: Data visualization and analysis using libraries like Plotly for ASEAN statistics. [ASEAN-Key-Figure-Data-Analysis](https://github.com/blinh1811/ASEAN-Key-Figure-Data-Analysis/blob/main/Dashboard_SAP%20Analytics%20Cloud.pdf)
 
 ## 5. Comparative Analysis
 The report ends with a comparison of Power BI, SAP Analytics Cloud, and Python in terms of ease of use, integration, visualization capabilities, and costs.
